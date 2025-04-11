@@ -4,16 +4,16 @@
 Deve ser implementado:
 
  TAD de Lista Estática, com as seguintes operações:
-  o Inicializar lista;
-  o Inserir na lista (início, posição, fim);
-  o Remover da lista (início, posição, fim);
-  o Obter item da lista – recebe a posição como parâmetro e retorna o dado daquela
+   Inicializar lista;
+   Inserir na lista (início, posição, fim);
+   Remover da lista (início, posição, fim);
+   Obter item da lista – recebe a posição como parâmetro e retorna o dado daquela
 posição (se existir);
-  o Contém item – recebe o dado e verifica se ele está na lista. Se estiver, retorna
+   Contém item – recebe o dado e verifica se ele está na lista. Se estiver, retorna
 verdadeiro, falso caso contrário;
-  o Descobrir índice – recebe o dado e busca-o na lista. Se estiver na lista, retorna à
+   Descobrir índice – recebe o dado e busca-o na lista. Se estiver na lista, retorna à
 posição do dado na lista, caso contrário, retorna -1.
-  o Imprimir lista;
+   Imprimir lista;
 
  TAD de Lista Encadeada Simples – com as mesmas operações da lista estática;
 
